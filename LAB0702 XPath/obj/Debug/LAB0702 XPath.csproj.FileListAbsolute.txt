@@ -1,0 +1,22 @@
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\LAB0702 XPath.exe.config
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\LAB0702 XPath.exe
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\LAB0702 XPath.pdb
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.csproj.AssemblyReference.cache
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702_XPath.Form1.resources
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702_XPath.Properties.Resources.resources
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.csproj.GenerateResource.cache
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.csproj.CoreCompileInputs.cache
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.exe
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.pdb
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\HtmlAgilityPack.dll
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\HtmlAgilityPack.pdb
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\HtmlAgilityPack.xml
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\obj\Debug\LAB0702 XPath.csproj.CopyComplete
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\EntityFramework.dll
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\EntityFramework.SqlServer.dll
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\EntityFramework.xml
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\EntityFramework.SqlServer.xml
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\zxing.dll
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\zxing.presentation.dll
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\zxing.xml
+E:\1204311-APD\Lab\LAB0702 XPath\LAB0702 XPath\bin\Debug\zxing.presentation.xml
